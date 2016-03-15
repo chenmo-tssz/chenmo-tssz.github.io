@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://chenmo-tssz.github.io/sitemap.xml 

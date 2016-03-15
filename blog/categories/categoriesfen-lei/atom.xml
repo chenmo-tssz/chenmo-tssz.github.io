@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Categories分类 | My Octopress Blog]]></title>
+  <link href="http://chenmo-tssz.github.io/blog/categories/categoriesfen-lei/atom.xml" rel="self"/>
+  <link href="http://chenmo-tssz.github.io/"/>
+  <updated>2016-03-15T22:02:43+08:00</updated>
+  <id>http://chenmo-tssz.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[成功做好本地环境了]]></title>
+    <link href="http://chenmo-tssz.github.io/blog/2016/03/15/first-openg/"/>
+    <updated>2016-03-15T21:22:20+08:00</updated>
+    <id>http://chenmo-tssz.github.io/blog/2016/03/15/first-openg</id>
+    <content type="html"><![CDATA[<p>这个按照 极客学院的课程搭建成功了。</p>
+]]></content>
+  </entry>
+  
+</feed>
